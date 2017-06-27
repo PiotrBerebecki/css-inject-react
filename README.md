@@ -1,8 +1,8 @@
-CSS-in-JS - Inject CSS using JavaScript
+# CSS-in-JS - Inject CSS using JavaScript
 
 A function that injects CSS styles into your React component
 
-Example use:
+## Example use:
 
 ```javascript
 import React, { Component } from 'react';
